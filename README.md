@@ -14,7 +14,7 @@
   <li>🔭 I build full stack web apps, with a focus on the frontend</li>
   <li>🌱 Always learning and improving my craft</li>
   <li>💬 Ask me about <b>React, Next.js and Node.js</b></li>
-  <li>📫 How to reach me: <b>dokonkwo395@gmail.com</b></li>
+  <li>📫 How to reach me: <a href="mailto:dokonkwo395@gmail.com"><b>dokonkwo395@gmail.com</b></a></li>
 </ul>
 
 
