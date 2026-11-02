@@ -1,19 +1,7 @@
 <!-- ============================================================ -->
 <!--  HEADER                                                       -->
 <!-- ============================================================ -->
-
-<h1 align="center">Hi 👋, I'm Dubem Okonkwo</h1>
-
-<h3 align="center">
-  Full Stack Developer with a love for building clean, fast, user-friendly frontends
-</h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=dubemokonkwo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
+ <!-- Animated waving banner (edit "text=" and "desc=" to change the wording) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dubem%20Okonkwo&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Frontend%20Leaning&descSize=20&descAlignY=55" alt="Hi, I'm Dubem Okonkwo" width="100%" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=dubemokonkwo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
 <!-- ============================================================ -->
